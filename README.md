@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 27-04-2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +32,17 @@
 
 ## Input:
 
+![image](https://github.com/keerthanapillaram/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743072/aa35738f-a1e9-4c60-b2ca-2c5729bc0241)
+
+
 ### Output:
 
+![image](https://github.com/keerthanapillaram/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743072/26e929c9-08b1-4a21-816e-1dc4b36542cf)
 
-### Name:
-### Register Number:
+
+
+### Name: P.KEERTHANA
+### Register Number: 212223240069
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
