@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 27-04-2024
+### DATE: 29-04-2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,13 +32,12 @@
 
 ## Input:
 
-![image](https://github.com/keerthanapillaram/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743072/aa35738f-a1e9-4c60-b2ca-2c5729bc0241)
+![image](https://github.com/keerthanapillaram/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743072/82bb729e-e0dd-485c-a759-ea1c86e3b572)
 
 
 ### Output:
 
-![image](https://github.com/keerthanapillaram/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743072/26e929c9-08b1-4a21-816e-1dc4b36542cf)
-
+![image](https://github.com/keerthanapillaram/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743072/1bb2f9e7-c5ce-4569-afdf-f5139d4f93d1)
 
 
 ### Name: P.KEERTHANA
